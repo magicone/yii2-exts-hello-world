@@ -1,0 +1,14 @@
+{
+    "name": "yiibai/hello-world",
+    "authors": [
+        {
+            "name": "yiibai"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
